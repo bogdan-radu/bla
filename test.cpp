@@ -8,5 +8,5 @@ int main()
     b=1200 * a;
     cout<<b;
 
-
+return 0;
 }
