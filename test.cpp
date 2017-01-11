@@ -7,6 +7,7 @@ int main()
     a=6.21371192e-7;
     b=1200 * a;
     cout<<b;
+    cout<<a;
 
 return 0;
 }
